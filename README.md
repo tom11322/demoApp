@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip2*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip2** is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
